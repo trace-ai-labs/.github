@@ -2,8 +2,8 @@
 
 ### Trustworthy Routing, Agents, Compliance, and Efficiency
 
-TRACE AI Labs is the joint research of **[Ansel Erol](https://ansel.fyi)** and
-**[Mika Okamoto](https://mika-okamoto.github.io)** on making AI agents trustworthy,
+TRACE AI Labs is the joint research of **[Mika Okamoto](https://mika-okamoto.github.io)** and **[Ansel Erol](https://ansel.fyi)**
+ on making AI agents trustworthy,
 auditable, and efficient. The name is also the point: we care about leaving a clear
 *trace* — the audit trails that make agent behavior explainable and verifiable.
 
