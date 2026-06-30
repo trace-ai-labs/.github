@@ -18,7 +18,7 @@ auditable, and efficient. The name is also the point: we care about leaving a cl
 ## Selected work
 
 - **What Makes AI Agents Follow the Rules?** — how rule framing, enforcement, and workplace pressure shape regulatory compliance across twelve LLM agents.
-  [Paper](https://mika-okamoto.github.io/assets/pdf/ai_agent_regulation_compliance.pdf) · [Interactive results](https://trace-ai-labs.github.io/ai-incentives/) · [Code & data](https://github.com/trace-ai-labs/llm-compliance)
+  [Paper](https://trace-ai-labs.github.io/ai-incentives/paper.pdf) · [Interactive results](https://trace-ai-labs.github.io/ai-incentives/) · [Code & data](https://github.com/trace-ai-labs/llm-compliance)
 - **Explainable Model Routing for Agentic Workflows** — interpretable, auditable model routing for agentic systems.
   [arXiv:2604.03527](https://arxiv.org/abs/2604.03527)
 - **Trust by Design: Skill Profiles for Transparent, Cost-Aware LLM Routing** — skill-decomposed, budget-aware model selection.
